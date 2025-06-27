@@ -1,5 +1,4 @@
-Projeto Final Sistema Cadastro de Livros em Cobol
-No Sistema Cadastro de Livros  de acordo com a opção CRUD: 
+Projeto Final Sistema Cadastro de Livros em Cobol  No Sistema Cadastro de Livros  de acordo com a opção CRUD: 
 
 1 - CADASTRAR
 2 - EDITAR

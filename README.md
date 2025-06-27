@@ -11,7 +11,7 @@ Projeto Final Sistema Cadastro de Livros em Cobol
 5 - SAIR DO PROGRAMA
 
 
-No Sistema pede o Código do Livro, Titulo, Nome do Autor, Ano, Editora onde pode editar os livros cadastrados, excluir, editar.
+No Sistema pede o Código do Livro, Titulo, Nome do Autor, Ano, Editora onde pode criar os livros cadastrados, excluir, editar.
 
 
 
